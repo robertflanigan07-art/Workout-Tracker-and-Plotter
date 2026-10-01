@@ -86,10 +86,10 @@ This program is coded in Java. This program will allow you to record workout vol
 
 Use the following links to install the necessary Java libraries and settings.json.
 
-(settings.json link) \n
-(commons-math link)
-(VectorGraphics2D link)
-(xchart link)
+<a class="link">settings.json link</a>
+<a class="link">commons-math link</a>
+<a class="link">VectorGraphics2D link</a>
+<a class="link">xchart link</a>
 
 Then set up your project file like so:
 

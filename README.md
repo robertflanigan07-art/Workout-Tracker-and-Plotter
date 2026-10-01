@@ -93,10 +93,11 @@ Use the following links to install the necessary Java libraries and settings.jso
 
 Then set up your project file like so:
 
+<pre class="file-tree">
 java_plotting/
 │
 ├── .vscode/
-│   └── settings.json
+│   └── [VS Code project settings]
 │
 ├── lib/
 │   ├── commons-math3-3.6.1.jar
@@ -108,6 +109,7 @@ java_plotting/
 ├── Test.java
 │
 └── workouts.csv
+</pre>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

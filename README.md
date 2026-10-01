@@ -86,10 +86,10 @@ This program is coded in Java. This program will allow you to record workout vol
 
 Use the following links to install the necessary Java libraries and settings.json.
 
-<li><a class="link">settings.json link</a>
-<li><a class="link">commons-math link</a>
-<li><a class="link">VectorGraphics2D link</a>
-<li><a class="link">xchart link</a>
+<li><a class="link">settings.json</a>
+<li><a class="link">commons-math</a>
+<li><a class="link">VectorGraphics2D</a>
+<li><a class="link">xchart</a>
 
 Then set up your project file like so:
 
@@ -118,9 +118,7 @@ java_plotting/
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This program can be used for logging workout volume and visualizing and identifying trends within woukout data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

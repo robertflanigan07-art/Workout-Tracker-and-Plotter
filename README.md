@@ -141,8 +141,8 @@ This program can be used for logging workout volume and visualizing and identify
 
 ### Top contributors:
 
-Robert Flanigan
-Maura Sateriale
+<li>Robert Flanigan<\li>
+<li>Maura Sateriale<\li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,8 +150,6 @@ Maura Sateriale
 ## License
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact

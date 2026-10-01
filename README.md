@@ -127,12 +127,10 @@ This program can be used for logging workout volume and visualizing and identify
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [ ] Log workout volume
+- [ ] Generate linearization of data
+- [ ] Generate polynomial of n degree to approximate trends in data
+- [ ] Graph workout volume overtime
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,9 +183,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+Thanks to Maura for teaching me!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

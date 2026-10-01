@@ -29,7 +29,7 @@
 <h3 align="center">Workout Tracker and Grapher</h3>
 
   <p align="center">
-    Java program that allows users to record and display trends in their workout volume over time .
+    A Java program that allows users to record and display trends in their workout volume over time .
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,6 +76,8 @@
 ## About The Project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+This program is coded in Java. This program will allow you to record workout volume. Then the program exports this volume to a CSV file and graphs the data. The program also produces a line of best fit, which is a polynomial of a given degree.
 
 <!-- GETTING STARTED -->
 ## Getting Started

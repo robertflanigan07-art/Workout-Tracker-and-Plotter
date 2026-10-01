@@ -75,9 +75,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 This program is coded in Java. This program will allow you to record workout volume. Then the program exports this volume to a CSV file and graphs the data. The program also produces a line of best fit, which is a polynomial of a given degree.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
